@@ -57,7 +57,7 @@ export const siteConfig = {
       bullets: [
         "Programmed automated testing scripts for the law Enforcement Unit to improve efficiency of the adjudication process",
         "Utilized agile methodology and took lead on business projects to completion for management",
-        "Collaborated with key stakeholeders to implement and assess new technology for the organization",
+        "Collaborated with key stakeholders to implement and assess new technology for the organization",
       ],
     },
   ],
