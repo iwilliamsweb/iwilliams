@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://iwilliamsweb.github.io/iwilliams/',          // your lowercase GitHub username
-  base: '/iwilliamsweb/',                        // your repo name with leading and trailing slash, e.g. '/portfolio/'
+  base: '/iwilliams/',                        // your repo name with leading and trailing slash, e.g. '/portfolio/'
   vite: {
     plugins: [tailwindcss()],
   },
